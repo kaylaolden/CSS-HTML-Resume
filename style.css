@@ -1,0 +1,58 @@
+body {
+  background-image: url('jmulogo.png');
+  background-repeat: no-repeat;
+  background-position:  5px 185px; 
+  background-size: 60%;
+  background-color: rgba(0, 0, 0, 0.22);
+  }
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  text-decoration: underline;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  color: #684b77;
+   }
+#contact {
+ font-family: 'Oswald', sans-serif;
+ text-decoration: underline;
+ color: rgba(137, 129, 95, 0.96);
+  position: relative;
+  right: -500px;
+  bottom: -565px;
+  }
+#skills {
+   width: 420px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0px;
+}
+
+#education {
+  width: 420px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+
+#experience {
+  width: 420px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+
+#sports {
+  width: 420px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+ul {
+    list-style-type: square; 
+    color: rgba(110, 78, 121, 0.96); 
+  }
+li {
+ font-family: 'Oswald', sans-serif;
+  }
